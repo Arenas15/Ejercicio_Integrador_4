@@ -10,7 +10,7 @@ pipeline {
                         ['Avengers: Endgame', 90000, 9000, 810000000, 648000000],
                         ['Avatar: The Way of Water', 80000, 8000, 640000000, 512000000],
                         ['Titanic', 70000, 7000, 490000000, 392000000],
-                        ['Star Wars: Episode VII - The Force Awakens', 60000, 6000, 360000000, 288000000],
+                        ['Star Wars: Episode VII The Force Awakens', 60000, 6000, 360000000, 288000000],
                         ['Avengers: Infinity War', 50000, 5000, 250000000, 200000000],
                         ['Spider-Man: No Way Home', 40000, 4000, 160000000, 128000000],
                         ['Jurassic World', 30000, 3000, 90000000, 72000000],
